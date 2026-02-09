@@ -5,9 +5,9 @@
 
 .navbar {
     list-style: none;
+	display: flex;
 }
 
 .navbar li {
-    display: inline;
-    margin-right: 1rem;
+   margin-right: 1rem;
 }
